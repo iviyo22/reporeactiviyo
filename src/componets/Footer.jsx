@@ -8,8 +8,8 @@ const Footer =() =>{
           <div class="card h-100">
             <img src={Depo} class="card-img-top" alt="Deposito"/>
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title">Plantas procesadoras</h5>
+              <p class="card-text">Contamos con las mejores gestiones</p>
             </div>
           </div>
         </div>
@@ -17,8 +17,8 @@ const Footer =() =>{
           <div class="card h-100">
             <img src={Empleados} class="card-img-top" alt="Empleados"/>
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+              <h5 class="card-title">RRHH</h5>
+              <p class="card-text">Contamos con el mejor ambiente laboral</p>
             </div>
           </div>
         </div>
@@ -26,12 +26,10 @@ const Footer =() =>{
           <div class="card h-100">
             <img src={Redes} class="card-img-top" alt="Redes"/>
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              <h5 class="card-title">Contacto</h5>
+              <p class="card-text">Buscanos por todas nuestras plataformas</p>
             </div>
-            <div class="card-footer">
-              <small class="text-body-secondary">Last updated 3 mins ago</small>
-            </div>
+          
           </div>
         </div>
       </div>

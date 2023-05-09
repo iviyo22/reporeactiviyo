@@ -10,15 +10,15 @@ const Navbar =() =>{
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
         <img src={Inter} alt="Logo" width="30" height="24" class="d-inline-block align-text-top"/>
-        Bootstrap  </a>
+        Encomienda Internacional  </a>
         <a class="navbar-brand" href="#"> <img src={Box} alt="Logo" width="30" height="24" class="d-inline-block align-text-top"/>
-        Bootstrap</a>
+        Carta Doc/Sobres</a>
         <a class="navbar-brand" href="#">
         <img src={Dom} alt="Logo" width="30" height="24" class="d-inline-block align-text-top"/>
-        Bootstrap</a>
+        Envios a Domicilio </a>
         <a class="navbar-brand" href="#">
         <img src={Boxes} alt="Logo" width="30" height="24" class="d-inline-block align-text-top"/>
-        Bootstrap</a>
+        Encomienda Masiva</a>
       
     </div>
   </nav>
